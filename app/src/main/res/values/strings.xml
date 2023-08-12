@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Error404</string>
+    <string name="mealplan">Meal Plan</string>
+    <string name="choosemeal">Choose Meal</string>
+    <string name="backbutton">Return</string>
+    <string name="submit">Submit</string>
+    <string name="amount">Amount:</string>
+    <string name="calories">Calories:</string>
+    <string name="logout">Logout</string>
+    <string name="workplan">Workout Plan</string>
+    <string name="chooseWork">Choose Workout:</string>
+    <string name="time">Time:</string>
+    <string name="accregister">Account Registration</string>
+    <string name="register_instroctions">Please fill ALL data below.</string>
+    <string name="username">Username</string>
+    <string name="password">Password:</string>
+    <string name="repassword">Re-password</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="weight">Weight:</string>
+    <string name="weightlbs">Weight in lbs</string>
+    <string name="calorieCounterTitle">Calorie Counter</string>
+    <string name="workout_calories">Workout Calorie Count:</string>
+</resources>
